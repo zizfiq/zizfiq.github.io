@@ -783,7 +783,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #0e2442;
+  color: #fff;
   content: "/";
 }
 
